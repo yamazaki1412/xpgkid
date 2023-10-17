@@ -9,15 +9,16 @@
 
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDA3Ny8lRTklQTUlQUQlRTUlQTQlQUElRTclQTElQUMlRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
 "sites":[
-        {
-      "key": "csp_xBPQ_小苹果",
-      "name": "kid朋友们专用🍎主力源",
+{
+      "key": "csp_农民",
+      "name": "kid的朋友们专用🍎主力源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/jwei/hys/-/raw/main/lib/小苹果.json"
+      "ext": "https://download.kstore.space/download/4077/hys/lib/nmys2.json",
+       "jar":"https://download.kstore.space/download/4077/hys/vip.jar"
     },
     
 {"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
@@ -69,6 +70,11 @@
 	 
   {"key":"csp_appysv2_迷你库","name":"迷你影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
+
+
+ 
+
+			
 {"key":"迪迪","name":"迪迪影院","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"贱贱","name":"贱贱影院","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 {"key":"哈喽","name":"哈喽影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -97,7 +103,6 @@
     "filterable":0,
     "ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/xima.js"
     }
-],
 "parses": [ 
 
 {"name":"解析聚合","type":3,"url":"Demo"},
