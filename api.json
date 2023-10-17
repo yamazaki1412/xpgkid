@@ -1,5 +1,5 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//华影视下载地址： gg.gg/gggghys   (复制到浏览器下载)
+
 { "spider":"https://download.kstore.space/download/4077/xpg/xhkw1.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{
@@ -12,7 +12,7 @@
 "sites":[
 {
       "key": "csp_农民",
-      "name": "🍎主力源(原)",
+      "name": "kid的朋友们专用🍎主力源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -151,8 +151,7 @@
     "filterable":0,
     "ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/xima.js"
     },
-    {"key":"360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_555","name":"欢迎使用免捐献版小苹果","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}
+    {"key":"360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [ 
 
