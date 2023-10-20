@@ -10,19 +10,7 @@
 
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDA3Ny8lRTklQTUlQUQlRTUlQTQlQUElRTclQTElQUMlRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
 "sites":[
-{
-      "key": "csp_农民",
-      "name": "kid的朋友们专用🍎主力源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/4077/hys/lib/nmys2.json",
-       "jar":"https://download.kstore.space/download/4077/hys/vip.jar"
-    },
-    
-{"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4_wo","name":"kid的朋友们专用🍎主力(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "T4_斌弟",
       "name": "🍎主力源4k(备)",
