@@ -1,5 +1,4 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-
 { "spider":"https://download.kstore.space/download/4077/xpg/xhkw1.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{
@@ -10,7 +9,8 @@
 
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDA3Ny8lRTklQTUlQUQlRTUlQTQlQUElRTclQTElQUMlRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
 "sites":[
-{"key":"t4_wo","name":"kid的朋友们专用🍎主力(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
+  {"key": "xpg","name": "kid的朋友们专享🍎主力","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/乐猪.json"},  
+{"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "T4_斌弟",
       "name": "🍎主力源4k(备)",
@@ -40,9 +40,8 @@
 {"key":"csp_xp_tjyy","name":"🍎备用源三","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://cn.kstore.space/download/2998/1/json/huigutongying.json","date":"2022-10-09 16:05:11"},
 {"key": "轻简", "name": "🍎备用源四", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]}, 
 {"key":"畅梦","name":"🍎备用源五","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},
-{"key":"米诺影视","name":"短剧┃影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"http://cdn.qiaoji8.com/fix1005.jar"},
 {"key":" 华影视直播","name":"|3840p直播竞技","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_AppYsV2_3","name":"速看影视","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://sk100.tv/api.php/app/"},
+                   {"key":"csp_AppYsV2_3","name":"速看影视","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://sk100.tv/api.php/app/"},
 
 {"key":"鸭奈飞","name":"鸭鸭影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
    
@@ -58,11 +57,6 @@
 
 	 
   {"key":"csp_appysv2_迷你库","name":"迷你影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-
-
-
- 
-
 			
 {"key":"迪迪","name":"迪迪影院","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"贱贱","name":"贱贱影院","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
@@ -91,8 +85,7 @@
     "quickSearch":0,
     "filterable":0,
     "ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/xima.js"
-    },
-    {"key":"360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1}
+    }
 ],
 "parses": [ 
 
