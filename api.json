@@ -1,5 +1,5 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-{ "spider":"https://download.kstore.space/download/4077/xpg/xhkw1.jar",
+{ "spider":"https://download.kstore.space/download/4077/xpg/1.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{
 "group":"redirect",
@@ -10,13 +10,13 @@
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDA3Ny8lRTklQTUlQUQlRTUlQTQlQUElRTclQTElQUMlRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
 "sites":[
   {"key": "xpg","name": "kid的朋友们专享🍎主力","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/乐猪.json"},  
-{"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cfabe35c21a0487199cbb7c4761154d5","searchable":1,"quickSearch":1,"filterable":1},
     {
-      "key": "T4_斌弟",
+      "key": "T4_wogg",
       "name": "🍎主力源4k(备)",
       "type": 4,
       "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=342a28053dd54cf2b0246c6b33c74013"
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276"
     },
 
 
@@ -26,24 +26,91 @@
       "quickSearch": 1,      "filterable": 1,
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 
- {
-      "key": "瑞丰",
-      "name": "🍎备用源二",
+ 
+{"key":"csp_xp_tjyy","name":"🍎备用源二","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://cn.kstore.space/download/2998/1/json/huigutongying.json","date":"2022-10-09 16:05:11"},
+
+  		    {
+      "key": "csp_appysv2_阿里影视",
+      "name": "🍎备用源三",
       "type": 3,
-      "api": "csp_AppYs",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+      "ext": "http://aliys.cn:90/api.php/v1.vod"
+    },
+{
+      "key": "xml_火狐",
+      "name": "🍎备用源四",
+      "type": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.8
+      },
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "记录片",
+        "动画片",
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "欧美剧",
+        "马泰剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
     }, 
-{"key":"csp_xp_tjyy","name":"🍎备用源三","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://cn.kstore.space/download/2998/1/json/huigutongying.json","date":"2022-10-09 16:05:11"},
-{"key": "轻简", "name": "🍎备用源四", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]}, 
-{"key":"畅梦","name":"🍎备用源五","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+        {"key":"csp_AppYsV2_3","name":"🍎备用源六","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://sk100.tv/api.php/app/"},
+
+{"key":"鸭奈飞","name":"🍎备用源七","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
+   
+      {
+      "key": "csp_mengdandan_api",      "name": "🍎备用源八",
+      "type": 3,      "api": "csp_AppYsV2",
+      "searchable": 1,      "quickSearch": 1,
+      "filterable": 1,      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
 {"key":" 华影视直播","name":"|3840p直播竞技","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
                    {"key":"csp_AppYsV2_3","name":"速看影视","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://sk100.tv/api.php/app/"},
-
-{"key":"鸭奈飞","name":"鸭鸭影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
    
       {
       "key": "csp_mengdandan_api",      "name": "萌蛋影视",
