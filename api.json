@@ -9,17 +9,8 @@
 
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDA3Ny8lRTklQTUlQUQlRTUlQTQlQUElRTclQTElQUMlRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
 "sites":[
-  {"key": "xpg","name": "kid朋友专享🍎主力","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/乐猪.json"},  
-{"key":"t4_wo","name":"🍎主力源(4k)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cfabe35c21a0487199cbb7c4761154d5","searchable":1,"quickSearch":1,"filterable":1},
-    {
-      "key": "T4_wogg",
-      "name": "🍎主力源4k(备)",
-      "type": 4,
-      "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276"
-    },
-
-
+  {"key": "xpg","name": "kid朋友专享🍎主力","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/乐猪.json"},
+{"key":爱迪V2,"name":"🍎主力4k","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
   {      "key": "csp_aidi_api",
       "name": "🍎备用源一",      "type": 3,
       "api": "csp_AppYsV2",      "searchable": 1,
@@ -136,26 +127,12 @@
       "type": 3,      "api": "csp_AppYsV2",
       "searchable": 1,      "quickSearch": 1,
       "filterable": 1,      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    },     
-
-
-	{"key":"csp_三亚","name":"三亚影视","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-
+    },  
 	 
-  {"key":"csp_appysv2_迷你库","name":"迷你影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-
-
-
- 
-
-			
+  {"key":"csp_appysv2_迷你库","name":"迷你影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},	
 {"key":"迪迪","name":"迪迪影院","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"贱贱","name":"贱贱影院","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
-{"key":"哈喽","name":"哈喽影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{ "key":"drpy_js_素白白", "name":"素白影院", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sbb.js" },  { "key":"drpy_js_sh", "name":"骚火电影", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sh.js" }, 
-
-
-{"key":爱迪V2,"name":"爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
+{"key":"哈喽","name":"哈喽影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},   
+	{"key":"csp_三亚","name":"三亚影视","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"dr_88看球","name":"我要看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88看球.js"},
 {"key":"看球直播","name":"JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},        
   {"key":"csp_Bili","name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/XYQ.jar"},
