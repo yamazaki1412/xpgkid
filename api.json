@@ -6,13 +6,13 @@
         "sites":[
 {"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"csp_Xinsj","name":"🍅主力1","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
+{"key":"csp_Xinsj","name":"🍎主力1","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 
-{"key":"csp_Cokemv","name":"🍅主力2","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"农民","name":"🍎主力2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 
-{"key":"农民","name":"🍅主力3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
+{"key":"迷你库","name":"🍎主力3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
-{"key":"迷你库","name":"🍅主力4","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"csp_Cokemv","name":"🍎主力4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
