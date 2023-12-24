@@ -5,35 +5,36 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 
 "sites":[
+{"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":""},
-{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"蝴蝶","name":"蝴蝶┃App","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
-{"key":"巧技一","name":"巧技一┃App","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
-{"key":"巧技二","name":"巧技二┃App","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
-{"key":"巧技三","name":"巧技三┃App","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
-{"key":"巧技四","name":"巧技四┃App","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
-{"key":"tvbsk","name":"TVB云播┃App","type":3,"api":"csp_Skapp","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"},
+{"key":"南瓜","name":"🍎主力1","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":""},
+{"key":"天天","name":"🍎主力2","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
+{"key":"蝴蝶","name":"🍎主力3","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
+{"key":"巧技一","name":"🍎主力4","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
+{"key":"巧技二","name":"🍎主力5","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
+{"key":"巧技三","name":"🍎主力6","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
+{"key":"巧技四","name":"🍎主力7","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
+{"key":"tvbsk","name":"🍎主力8","type":3,"api":"csp_Skapp","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"},
+{"key":"欣欣","name":"🍎主力9","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin"},
+{"key":"星星","name":"🍎主力10","type":3,"api":"csp_qiao","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"},
+{"key":"涂城","name":"🍎主力11","type":0,"api":"http://154.12.81.149:88/aatucheng/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
+{"key":"K影","name":"🍎主力12","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
+{"key":"看看","name":"🍎主力13","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key":"嘶哩","name":"嘶哩┃动漫","type":3,"api":"csp_Skapp","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/sili"},
-
-{"key":"欣欣","name":"欣欣┃App","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin"},
-
 {"key":"樱花","name":"樱花┃动漫","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/yinghua"},
-{"key":"星星","name":"星星┃App","type":3,"api":"csp_qiao","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"},
-{"key":"涂城","name":"涂城┃App","type":0,"api":"http://154.12.81.149:88/aatucheng/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"K影","name":"K影院┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
 
-{"key":"看看","name":"看看┃App","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Lib","name":"Lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
 {"key":"时常","name":"时常┃直连","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":""},
 {"key":"Bdys_spider","name":"哔滴┃直连","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
 {"key":"sliu_spider","name":"石榴┃直连","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1,"ext":""},
 {"key":"ZXZJ","name":"在线┃直连","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+{"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1,"ext":""},
+
 {"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
 
 {"key":"Music_spider","name":"音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""}
