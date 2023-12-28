@@ -175,7 +175,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://ghps.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/live_1.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
