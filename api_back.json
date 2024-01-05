@@ -14,6 +14,33 @@
 
 {"key":"csp_Cokemv","name":"🍎主力4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
+
+{"key": "AListY",
+        "name": "📕小雅网盘",
+        "type": 3,
+        "api": "csp_AListBox",
+        "searchable": 1,
+        "changeable": 0,
+        "jar":"https://jihulab.com/0004/c/-/raw/main/YY.jar?ref_type=heads",
+        "ext": "https://d.kstore.space/download/6474/tvbox/xiaoya.json#一个分享者",
+        "style": {"type": "list"}
+    },
+
+{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qu.ax/WHNe.json"},
+        
+{
+      "key": "py_cctv",
+      "name": "🇨🇳央视大全",
+      "type": 3,
+      "api":"py_cctv",
+      "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
+    },
+
+
+
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Czsapp","name":"🏭厂长影院","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
