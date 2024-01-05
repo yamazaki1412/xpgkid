@@ -22,7 +22,8 @@
         "searchable": 1,
         "changeable": 0,
         "jar":"https://jihulab.com/0004/c/-/raw/main/YY.jar?ref_type=heads",
-        "ext": "https://d.kstore.space/download/6474/tvbox/xiaoya.json#一个分享者",
+        "ext": [{"name": "小雅","server": "http://xy.omii.link:5344","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""},"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}}
+            ],
         "style": {"type": "list"}
     },
 
