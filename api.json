@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C5D6AA129B68C941168CFB4497FFE256",
+        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A8FF1A39A31148CC73BF82390B2C9529",
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
@@ -10,7 +10,7 @@
 
 {"key":"农民","name":"🍎主力2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 
-{"key":"迷你库","name":"🍎主力3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"迷你库","name":"🍎主力3","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Cokemv","name":"🍎主力4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
