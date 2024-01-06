@@ -15,11 +15,7 @@
       "changeable": 1,
       "ext": {
         "drives": [
-          {"name":"丫仙女","server":"http://xy.omii.link:5344/"},
-{"name":"ECVE","server":"https://pan.ecve.cn"},
-{"name":"觸光","server":"https://pan.ichuguang.com"},
-{"name":"一只魚","server":"https://vtok.pp.ua/"},
-{"name":"七米藍","server":"https://al.chirmyram.com"
+          {"name":"丫仙女","server":"http://xy.omii.link:5344/"
           }
         ]
       }
