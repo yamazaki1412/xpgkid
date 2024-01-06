@@ -13,6 +13,7 @@
 {"key":"csp_Bttwoo","name":"🍎主力3","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Cokemv","name":"🍎主力4","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "速看100","name": "🍎主力5","type": 3,"api": "csp_AppYsV2","ext": "https://sk100.tv/api.php/app/"},
 
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
