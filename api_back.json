@@ -15,9 +15,13 @@
       "changeable": 0,
       "ext": {
         "drives": [
-          {
-            "name": "小雅",
-            "server": "http://xy.omii.link:5344/"
+          {"name":"丫仙女","server":"http://xy.omii.link:5344/","startPage":"/","showAll":false,"search":true,"headers":{"Authorization":""},"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
+{"name":"小鸭","server":"http://shicheng.wang:555/","startPage":"/","showAll":false,"search":true,"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
+{"name":"小猫","server":"https://nics.eu.org","startPage":"/SP1","showAll":false,"search":true,"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
+{"name":"ECVE","server":"https://pan.ecve.cn"},
+{"name":"觸光","server":"https://pan.ichuguang.com"},
+{"name":"一只魚","server":"https://vtok.pp.ua/"},
+{"name":"七米藍","server":"https://al.chirmyram.com"
           }
         ]
       }
