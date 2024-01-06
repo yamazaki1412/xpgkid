@@ -8,7 +8,7 @@
 
     {
       "key": "AList",
-      "name": "网盘",
+      "name": "阿里网盘",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -16,8 +16,8 @@
       "ext": {
         "drives": [
           {
-            "name": "七米蓝",
-            "server": "http://xy.omii.link:5344/"
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro/"
           }
         ]
       }
