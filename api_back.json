@@ -17,7 +17,11 @@
         "drives": [
           {
             "name": "七米蓝",
-            "server": "https://al.chirmyram.com/" }
+            "server": "https://al.chirmyram.com/"
+          }
+        ]
+      }
+    },
 
 
 {"key":"南瓜","name":"🍎主力1","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
