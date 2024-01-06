@@ -12,7 +12,7 @@
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "drives": [
           {"name":"丫仙女","server":"http://xy.omii.link:5344/"},
