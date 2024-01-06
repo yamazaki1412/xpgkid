@@ -1,15 +1,15 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;1299A09E62C4B0EB2E1E4E38C3C318AE",
+        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
         "spider":
-"https://agit.ai/hu/sj/raw/branch/master/lib/HeChengChaXiu7.jar",
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HeChengChaXiu.jar",
 
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
 {"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"cctv","name":"🇨🇳央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://agit.ai/hu/sj/raw/branch/master/lib/央视大全.json"},
+{"key":"cctv","name":"🇨🇳央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/cctv.json"},
 
 
 
