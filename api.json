@@ -128,7 +128,7 @@
       "key": "四九CJ",
       "name": "📡四九CJ",
       "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "api": "https://49zyw.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
