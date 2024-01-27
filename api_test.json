@@ -15,7 +15,18 @@
 
 {"key":"csp_Cs1369","name":"🍎主力4","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
-{"key": "速看100","name": "🍎主力5","type": 3,"api": "csp_AppYsV2","ext": "https://sk100.tv/api.php/app/"},
+{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
+
+{
+      "key": "csp_liteApple",
+      "name": "🍎小苹果",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/nmys2.json"
+    },
 
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
