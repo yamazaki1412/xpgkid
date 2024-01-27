@@ -5,9 +5,10 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key": "直播转点播","name": "🍎电视直播","type": 3,"api": "https://agit.ai/guot54/YG/raw/branch/main/lib/live2vod.js","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/guot54/YG/raw/branch/main/js/zb.js"},
+{"key": "直播转点播","name": "🍎kid朋友专享｜电视","type": 3,"api": "https://agit.ai/guot54/YG/raw/branch/main/lib/live2vod.js","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/guot54/YG/raw/branch/main/js/zb.js"},
+
+{"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
 {"key":"南瓜","name":"🍎主力1","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
