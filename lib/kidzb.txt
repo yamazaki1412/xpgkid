@@ -1,4 +1,4 @@
-🌙月光宝盒,#genre#
+kid直播,#genre#
 凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8
 凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8
 CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
@@ -88,7 +88,7 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 中央新影-发现之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8
 中央新影-老故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8
 中央新影-中学生,https://live3.rxip.sc96655.com/live/zxs_4000.m3u8
-🌜央视,#genre#
+央视,#genre#
 CCTV-1 综合,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-2 财经,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV-3 综艺,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
@@ -111,7 +111,7 @@ CCTV-17 农业农村,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
 
-🌜卫视,#genre#
+卫视,#genre#
 安徽卫视,https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
 北京卫视,https://live3.rxip.sc96655.com/live/bjwsH265_4000.m3u8
 兵团卫视,https://live3.rxip.sc96655.com/live/btws_4000.m3u8
@@ -354,7 +354,7 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 精品导视,https://live3.rxip.sc96655.com/live/jpdsH265_4000.m3u8
 沙湾融媒,https://live3.rxip.sc96655.com/live/swxwzh_2000.m3u8
 
-🌸福建GD,#genre#
+🌸GD,#genre#
 CCTV1 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv1
 CCTV2 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv2
 CCTV3 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv3
