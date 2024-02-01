@@ -18,8 +18,6 @@
 
 {"key":"csp_Bttwoo","name":"🍎主力5","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "直播转点播","name": "🍎电视直播","type": 3,"api": "https://agit.ai/guot54/YG/raw/branch/main/lib/live2vod.js","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/zb.js"},
-
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Czsapp","name":"🏭厂长影院","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.czzy66.com/"},
@@ -162,6 +160,9 @@
 
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🐠斗鱼直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"},
+
+{"key": "mv","name": "🎤MV大全","type": 3,"api": "https://agit.ai/guot54/YG/raw/branch/main/lib/live2vod.js","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/zb.js"},
+
 {"key":"drpy_js_有声小说吧","name":"🎧有声小说吧","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"},
 {"key":"drpy_js_88看球","name":"⚽88看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88看球.js"},
 {"key":"drpy_js_JRKAN直播","name":"🏀JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
