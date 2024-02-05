@@ -98,10 +98,10 @@
       ]
       },
             {
-      "key": "量子CJ",
-      "name": "📡量子CJ",
+      "key": "天空CJ",
+      "name": "📡天空CJ",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
       "searchable": 1,
       "changeable": 1,
       "categories": [
