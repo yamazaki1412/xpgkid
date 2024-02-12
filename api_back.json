@@ -12,7 +12,7 @@
 
 {"key": "少泽影客（APP）","name": "🍎主力3","type": 3,"api":"csp_AppYsV2","ext":"https://yk.shaozeyy.com/api.php/app/"},
 
-{"key":"csp_Cs1369","name":"🍎主力4","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_AppYsV2","name":"🎦69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 {"key": "速看100","name": "🍎主力5","type": 3,"api": "csp_AppYsV2","ext": "https://sk100.tv/api.php/app/"},
 
