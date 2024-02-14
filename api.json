@@ -31,8 +31,22 @@
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MLYS","name":"🐴毛驴影视","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"奇优","name":"️🌈奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
+{"key": "yaya","name": "️✴️皮皮影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr","分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"}},
 
 {"key":"csp_SixV","name":"🧲新6V影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
+{
+            "key": "csp_xunlei8",
+            "name": "🧲迅雷磁力",
+            "jar":"",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{"key":"csp_SeedHub","name":"🧲SeedHub","jar":"","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 {"key":"360","name":"💘360观影","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
