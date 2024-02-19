@@ -6,7 +6,7 @@
 
         "sites":[
 {"key":"csp_DouDou","name":"🍎kid朋友专享｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-
+{"key": "xpg","name": "🍎主力源","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"}, 
 {"key":"南瓜","name":"🍎主力1","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"农民","name":"🍎主力2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
@@ -14,6 +14,23 @@
 {"key": "少泽影客（APP）","name": "🍎主力3","type": 3,"api":"csp_AppYsV2","ext":"https://yk.shaozeyy.com/api.php/app/"},
 
 {"key":"csp_Cs1369","name":"🍎主力4","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key":"csp_xp_tjyy","name":"🍎备用源一","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://cn.kstore.space/download/2998/1/json/huigutongying.json","date":"2022-10-09 16:05:11"},
+
+{
+      "key": "csp_appysv2_阿里影视",
+      "name": "🍎备用源二",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://aliys.cn:90/api.php/v1.vod"
+    },
+{"key":"迪迪","name":"🍎备用源五","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+
+{"key":"哈喽","name":"🍎备用源六","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+		
 
 {"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
 
