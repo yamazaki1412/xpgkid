@@ -295,26 +295,6 @@
       "国产剧","国产动漫","韩剧", "日剧","泰剧","台剧","港剧","欧美剧", "爽文短剧","日韩动漫", "足球", "篮球", "剧情片", "动作片", "爱情片", "喜剧片"]
     },
     {
-      "key": "csp_Lgyy",
-      "name": "🧿蓝光影院",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.tv"
-    },
-    {
-      "key": "csp_555电影",
-      "name": "🐾三五电影",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-   {
 	"key":"drpy_js_酷云七七",
 	"name":"🍁酷云七七",
 	"type":3,
@@ -336,7 +316,7 @@
         },
 
 {"key":"csp_AppYsV2_美剧范","name":"🦙美剧范(优)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
-{"key":"阿里影视","name":"🥤阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"阿里影视","name":"🥤阿里影视(聚)","type":1,"searchable":0,"quickSearch":0,"api":"http://aliys.cn:90/api.php/provide/vod/"},
 {"key":"动漫直链","name":"🎭动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xpgtv.net/html/box/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"},
 {"key":"Biliych","name":"演唱会","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://xpgtv.net/html/box/Bili/biliych.json"},
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://xpgtv.net/html/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
