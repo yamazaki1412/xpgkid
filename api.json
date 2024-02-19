@@ -8,15 +8,17 @@
         "sites":[
 
 {"key":"csp_DouDou","name":"🍎kid朋友们龙年大吉｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "小苹果","name": "🍎主力1","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"}, 
+{"key": "小苹果","name": "🍎主力1","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"}, 
 {"key":"南瓜","name":"🍎主力2","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 		
 {"key":"csp_xp_tjyy","name":"🍎主力3","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://cn.kstore.space/download/2998/1/json/huigutongying.json"},
 {"key":"农民","name":"🍎主力4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 {"key": "少泽影客（APP）","name": "🍎主力5","type": 3,"api":"csp_AppYsV2","ext":"https://yk.shaozeyy.com/api.php/app/"},
+
+{"key":"阿里影视","name":"🍎主力6","type":1,"searchable":1,"quickSearch":1,"api":"http://aliys.cn:90/api.php/provide/vod/"},
 		
 {"key":"csp_Auete","name":"🍎主力6","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-{"key": "yaya","name": "️🍎主力7","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr","分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"}},
+
 {"key":"csp_Bttwoo","name":"🍎主力8","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -26,7 +28,11 @@
 
 {"key":"csp_Xinsj","name":"✨新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"69美剧","name":"⚡69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"美剧范","name":"🦙美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
+
+{"key":"畅梦","name":"🍋畅梦影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},
 {"key":"csp_MLYS","name":"🐴毛驴影视","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key": "yaya","name": "️🥤鸭鸭影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr","分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"}},
 		
 {"key":"萌米","name":"🧸萌米影视","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 {"key":"星奇","name":"💫星奇影视","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
