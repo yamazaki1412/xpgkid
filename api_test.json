@@ -33,14 +33,14 @@
 
 {"key":"csp_Bttwoo","name":"✌️比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {
-      "key": "鑫鑫影视",
-      "name": "🥇鑫鑫影视",
+      "key": "csp_Lib",
+      "name": "🔷LibVio",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Libvio",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+      "ext": "https://www.libvio.fun/"
     },
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},
 {"key":"drpy_js_Voflix","name":"🍭Voflix影视","type": 3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/Voflix.js"},
