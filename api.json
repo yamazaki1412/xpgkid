@@ -17,7 +17,7 @@
 
 {"key":"阿里影视","name":"🍎主力6","type":1,"searchable":1,"quickSearch":1,"api":"http://aliys.cn:90/api.php/provide/vod/"},
 		
-{"key":"csp_Auete","name":"🍎主力6","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key":"csp_Auete","name":"🍎主力7","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"csp_Bttwoo","name":"🍎主力8","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
