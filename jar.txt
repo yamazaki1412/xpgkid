@@ -1,4 +1,4 @@
-        "spider": "https://agit.ai/Yoursmile7/TVBox/src/branch/master/Yoursmile.jar",
+        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 
 
 
