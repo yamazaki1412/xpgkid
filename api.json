@@ -6,7 +6,7 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
          "sites":[
-{"key":"csp_DouDou","name":"🍎kid朋友们龙年大吉｜豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"}, 
 {"key":"南瓜","name":"🍎主力1","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
@@ -109,8 +109,7 @@
 {"drives": [
 {"name":"💾七米藍","server":"https://al.chirmyram.com"},
 {"name":"💾ECVE","server":"https://pan.ecve.cn"},
-{"name":"💾丫仙女","server":"http://alist.xiaoya.pro/"},
-{"name": "💾丫仙女备用","server":"http://123.249.94.196:5678/"}
+{"name":"💾丫仙女","server":"http://alist.xiaoya.pro/"}
         ]
       }
     }
