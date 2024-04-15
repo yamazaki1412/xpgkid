@@ -14,7 +14,7 @@
 {"key": "鑫鑫影视","name": "🍎主力3","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"酷看","name":"🍎主力4","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
-{"key": "Libvio","name": "🍎主力5","type": 3,"api": "csp_Libvio","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.pw/"
+{"key":"萌米","name":"🍎主力5","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"奥特","name":"🍎主力6","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"比特","name":"🍎主力7","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -32,7 +32,7 @@
 
 {"key": "青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"}, 
 {"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
-{"key":"萌米","name":"🧸萌米影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"csp_nkdyw","name":"🧸南柯电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.kkgithub.com/liu673cn/box/main/libs/jar/HCCX.jar","ext":"https://raw.kkgithub.com/liu673cn/box/main/libs/hccx/nkdyw.json"},
 
 {"key":"熊猫","name":"🐼熊猫影视","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
