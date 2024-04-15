@@ -12,7 +12,7 @@
 
 {"key":"cokemv","name":"🍎主力2","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/cokemv.js"},
 {"key":"南瓜","name":"🍎主力3","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"爱看机器人","name":"🍎主力4","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/爱看机器人2.js"},
+{"key":"爱看机器人","name":"🍎主力4","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/爱看机器人3.js"},
 
 {"key":"酷看","name":"🍎主力5","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"萌米","name":"🍎主力6","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
