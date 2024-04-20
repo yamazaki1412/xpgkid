@@ -1,4 +1,4 @@
-        "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+        "spider": "https://gitee.com/xwq3367/Yoursmile7/raw/main/Yoursmile.jar",
 
 
 
