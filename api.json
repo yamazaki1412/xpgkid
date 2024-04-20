@@ -11,12 +11,12 @@
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"少泽影客","name":"🍎主力1通道","type": 3,"api":"csp_AppYsV2","ext":"https://yk.shaozeyy.com/api.php/app/"},
 
-{"key":"cokemv","name":"🍎主力2通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/cokemv.js"},
+{"key":"萌米","name":"🍎主力2通道","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"南瓜","name":"🍎主力3通道","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"567电影","name":"🍎主力4通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/567电影院.js"},
 
 {"key":"酷看","name":"🍎主力5通道","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"萌米","name":"🍎主力6通道","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"影视之家","name":"🍎主力6通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视之家[V2].js"},
 {"key":"18哈","name":"🍎主力7通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/18哈.js"},
 
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -25,7 +25,7 @@
 
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"影视之家","name":"⚜️影视之家","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视之家[V2].js"},
+{"key":"影视工场","name":"⚜️影视工场","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"},
 
 {"key":"csp_Xinsj","name":"✨新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"69美剧","name":"⚡69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
