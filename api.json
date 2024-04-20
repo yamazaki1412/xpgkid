@@ -48,7 +48,7 @@
 
 {"key":"drpy_js_Voflix","name":"🍭Voflix影视","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/js/Voflix.js"},
 {"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/ck/main/box/ysc/lib/suying.json"},
-{"key":"奥特","name":"☀奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key":"奥特","name":"🎗️奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/SC1080.js"},
 {"key":"js_555","name": "🌟555影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/555.js"},
