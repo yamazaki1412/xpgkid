@@ -56,7 +56,7 @@
 
 {"key":"OXS","name":"♟️欧瑟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"奇优","name":"️🌈奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/sub/奇优.json"},
-{"key":"csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
+{"key": "即刻","name": "💥1080即刻","type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
 
 {"key":"csp_nkvlog","name":"💢NK影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar","ext":"https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/nkvlog.json"},
 {"key":"csp_lkvod","name":"💢来看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar","ext":"https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/lkvod.json"},
@@ -70,8 +70,8 @@
 {"key":"drpy_js_腾云驾雾","name": "🍿腾云驾雾","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name": "🍿百忙无果","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
 
-{"key":"csp_Kunyu77","name":"🧲酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},		 
 {"key":"csp_SixV","name":"🧲新6V影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
+{"key":"csp_xpath_yinfans","name": "🧲音范丝4K","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 {"key":"dr_360影视","name":"🧲360观影 ","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/360.js"},
 		 
 {"key":"四九CJ","name": "📡四九CJ","type": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
