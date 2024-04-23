@@ -11,6 +11,7 @@
 {"key":"to.to-long.com","name":"🔞橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"naixxzy.com","name":"🔞奶香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aosikazy.com","name":"🔞奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"jkunzyapi.com","name":"🔞爱坤","type":1,"api":https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "apiyutu","name": "🔞玉兔","type": 1,"api": "https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "siwazywtw","name": "🔞袜丝","type": 1,"api": "https://www.siwazyw.tv/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "apiddapi","name": "🔞滴滴","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
