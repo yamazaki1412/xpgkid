@@ -5,7 +5,7 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key": "采集A（精品）","name": "🔞A精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "99reapi","name": "🔞久久热","type": 1,"api": "https://99reapi.com/api.php/provide/vod/at/json/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "聚传媒","name": "🔞聚传媒","type": 1,"api": "http://chujia.cc/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"to.to-long.com","name":"🔞橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
