@@ -6,11 +6,11 @@
 
         "sites":[
 {"key":"*91麻豆","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "slapibf","name": "🔞森林","type": 1,"api": "https://slapibf.com/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "99reapi","name": "🔞久久热","type": 1,"api": "https://99reapi.com/api.php/provide/vod/at/json/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "聚传媒","name": "🔞聚传媒","type": 1,"api": "http://chujia.cc/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "黄瓜","name": "🔞黄瓜","type": 1,"api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "slapibf","name": "🔞森林","type": 1,"api": "https://slapibf.com/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"to.to-long.com","name":"🔞橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"naixxzy.com","name":"🔞奶香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aosikazy.com","name":"🔞奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
