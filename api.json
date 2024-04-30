@@ -131,6 +131,12 @@
       "url": "Web"
     },
     {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    
+    {
       "name": "jsonplayer",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
