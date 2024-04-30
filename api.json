@@ -409,6 +409,32 @@
       }
     },
     {
+      "name": "2s0",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/analysis.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
       "name": "m3u8.tv",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
