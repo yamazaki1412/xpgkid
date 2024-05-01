@@ -1,6 +1,5 @@
         "spider": "https://gitee.com/xwq3367/Yoursmile7/raw/main/Yoursmile.jar",
 
-"spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-
+        "spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 
         "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
