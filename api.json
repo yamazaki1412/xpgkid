@@ -2,8 +2,10 @@
 
 
 {
-        "spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-        "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
+
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
 {"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
