@@ -3,20 +3,20 @@
 
 {
 
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
+        "spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
 {"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"南瓜","name":"🍎主力1通道","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Kkys","name":"🍎主力1通道","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
-{"key":"567电影","name":"🍎主力2通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/567电影院.js"},
-{"key":"少泽影客","name":"🍎主力3通道","type": 3,"api":"csp_AppYsV2","ext":"https://yk.shaozeyy.com/api.php/app/"},
-{"key":"萌米","name":"🍎主力4通道","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"csp_Bttwoo","name":"🍎主力2通道","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YCyz","name":"🍎主力3通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"影视工场","name":"🍎主力4通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"},
 
-{"key":"影视之家","name":"🍎主力5通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视之家[V2].js"},
+{"key":"萌米","name":"🍎主力5通道","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"18哈","name":"🍎主力6通道","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/18哈.js"},
 {"key": "js_4KHDR","name": "🍎主力7通道","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/4khdr.js" },
 
@@ -24,26 +24,21 @@
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
-{"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"影视工场","name":"⚜️影视工场","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"},
-{"key":"csp_Xinsj","name":"✨新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 
+{"key":"csp_Xinsj","name":"✨新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"美剧范","name":"🦙美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-{"key":"csp_Bttwoo","name":"👽比特影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"鑫鑫影视","name": "💡鑫鑫影视","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 
 {"key":"热播库","name":"🍁热播库","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/热播库.js"},
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
-{"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
 {"key":"csp_Lib","name":"🔷LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
+
 {"key":"csp_555电影","name":"📯555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/555电影.json"},
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
+
 {"key":"drpy_js_ikanbot2","name":"⚙️爱看机器人","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yamazaki1412/xpgkid/master/lib/ikanbot.js"},
 {"key":"圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.liucn.cc/box/libs/js/SC1080.js"},
-
 {"key":"cc_黑狐","name": "🦊黑狐影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/黑狐.json"},
 {"key":"OXS","name":"♟️欧瑟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"奇优","name":"️🌈奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/sub/奇优.json"},
