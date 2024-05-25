@@ -6,6 +6,7 @@
 
         "sites":[
 {"key":"*91麻豆","name":"🔞91麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "lyhapi", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "lyhapi", "name": "🔞狼友会", "type": 0, "api": "https://api.lyhapi.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "fhapi9", "name": "🔞番号全", "type": 0, "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "黄瓜","name": "🔞黄瓜","type": 1,"api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
