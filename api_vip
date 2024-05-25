@@ -6,10 +6,9 @@
 
         "sites":[
 {"key":"*91麻豆","name":"🔞聚合传媒","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "apilj", "name": "🔞辣椒", "type": 0, "api": "https://apilj.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key": "apilj", "name": "🔞辣椒", "type": 0, "api": "http://api.11bat.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "apisesehuzy", "name": "🔞色虎", "type": 0, "api": "https://apisesehuzy.com/api.php/providedao/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "ddkbo", "name": "🔞大地", "type": 0, "api": "http://ddkbo.com/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key": "155api", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "lyhapi", "name": "🔞狼友会", "type": 0, "api": "https://api.lyhapi.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "fhapi9", "name": "🔞番号全", "type": 0, "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "黄瓜","name": "🔞黄瓜","type": 1,"api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -38,6 +37,7 @@
 {"key":"*老鸭资源","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"🔞色南国","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"皇冠资源","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "155api", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"易看资源-伦理","name":"🔞易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*KK写真资源","name":"🔞KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_AList","name":"🔞云盘原片","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":
