@@ -18,7 +18,7 @@
 
 {"key":"csp_YCyz","name":"🍎主力5通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kekys","name":"🍎主力6通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "js_电影先生","name":"🍎主力7通道","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/电影先生.js"},
+{"key": "js_电影先生","name":"🍎主力7通道","type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/libs/js/电影先生.js"},
 
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -45,7 +45,7 @@
 {"key":"cc_黑狐","name": "🦊黑狐影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/黑狐.json"},
 
 {"key":"影视工场","name":"🤵影视工场","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"},
-{"key":"cc_热播之家","name": "🔥热播┃之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/热播之家.json"},
+{"key":"cc_热播之家","name": "🔥热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/热播之家.json"},
 {"key":"18哈","name":"🎊哈哈影视","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/18哈.js"},
 
 {"key":"OXS","name":"♟️欧瑟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
