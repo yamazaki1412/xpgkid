@@ -16,8 +16,8 @@
 {"key":"萌米","name":"🍎主力3通道","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_Bttwoo","name":"🍎主力4通道","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_YCyz","name":"🍎主力5通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Kekys","name":"🍎主力6通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Kekys","name":"🍎主力5通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_YCyz","name":"🍎主力6通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "js_电影先生","name":"🍎主力7通道","type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/libs/js/电影先生.js"},
 
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
