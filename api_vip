@@ -5,7 +5,7 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key":"*91麻豆","name":"🔞聚合传媒","type":1,"api":"https://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*91麻豆","name":"🔞聚合传媒","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "apilj", "name": "🔞辣椒", "type": 0, "api": "http://api.11bat.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "apisesehuzy", "name": "🔞色虎", "type": 0, "api": "https://apisesehuzy.com/api.php/providedao/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "ddkbo", "name": "🔞大地", "type": 0, "api": "http://ddkbo.com/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
