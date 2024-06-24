@@ -40,7 +40,8 @@
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key": "csp_Free","name": "💰️Free影院","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/Free影视.json"},
 
-{"key":"ikanbot","name":"⚙️爱看机器人","type":3,"playerType":"2","api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/yamazaki1412/xpgkid@master/lib/ikanbot.js"},
+
+{"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 {"key":"圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.liucn.cc/box/libs/js/SC1080.js"},
 {"key":"cc_黑狐","name": "🦊黑狐影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/黑狐.json"},
 
