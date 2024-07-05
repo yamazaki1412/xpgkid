@@ -16,7 +16,7 @@
 {"key":"csp_Kkys","name":"🍎主力4通道","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"csp_Kekys","name":"🍎主力5通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Zx4k","name":"🍎主力6通道","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_FreeOK","name":"🍎主力6通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FreeOK","name":"🍎主力7通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
