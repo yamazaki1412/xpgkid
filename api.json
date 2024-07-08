@@ -29,21 +29,20 @@
 
 {"key":"csp_Xdys","name":"⭐小点影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-{"key":"美剧范","name":"🦙美剧范影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-
 {"key":"csp_YCyz","name":"🦄原创影视","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
 {"key":"csp_AppRZ","name":"🕵忍者影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc/"},
-
 {"key":"csp_Lib","name":"🔷LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
+
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-
 {"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://cf.weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cf.weixine.net/js/changmeng.js"},
+
 {"key":"csp_Juqq","name":"⭕剧圈圈","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"影视工场","name":"🤵影视工场","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/影视工场.js"},
-
 {"key":"cc_热播之家","name": "🔥热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/热播之家.json"},
+
 {"key": "云播影视","name": "☁️云播影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/TVB云播.js"},
 {"key":"奇优","name":"️🌈奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/sub/奇优.json"},
 {"key": "即刻","name": "💥1080即刻","type": 3,"jar": "https://raw.liucn.cc/box/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
