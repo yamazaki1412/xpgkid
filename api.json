@@ -47,7 +47,7 @@
 {"key":"农民","name":"🥝农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "即刻","name": "💥1080即刻","type": 3,"jar": "https://raw.liucn.cc/box/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
 
-{"key":"dr_iqiyi","name":"🥝爱奇艺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/iqiyi.js"},
+{"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/iqiyi.js"},
 {"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/youku.js"},
 {"key":"dr_qq","name":"🐧腾讯","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/qq.js"},
 
