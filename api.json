@@ -62,8 +62,8 @@
 {"key":"csp_SixV","name":"🧲新6V影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_xpath_yinfans","name": "🧲音范丝4K","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 {"key":"dr_360影视","name":"🧲360观影 ","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/libs/js/360.js"},
-		 
-{"key":"四九CJ","name": "📡四九CJ","type": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key":"红牛CJ","name": "📡红牛CJ","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港澳剧","台湾剧","欧美剧","日剧","泰剧","韩剧","综艺","动漫","动漫电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"量子CJ","name": "📡量子CJ","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","电影解说","足球","篮球","网球","斯诺克","国产剧","韩国剧","欧美剧","日本剧","香港剧","台湾剧","海外剧","泰国剧","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","预告片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"光速CJ","name": "📡光速CJ","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港澳剧","台湾剧","欧美剧","日剧","泰剧","韩剧","综艺","动漫","动漫电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 
