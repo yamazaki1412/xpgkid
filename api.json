@@ -24,8 +24,8 @@
 {"key":"csp_Zxzj","name":"🏚️在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
-{"key": "csp_XYQ素白白","name": "⛈素白影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
-{"key": "csp_XYQ电影牛","name": "🍖影牛影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/电影牛.json"},
+{"key": "csp_XYQ素白白","name": "⛈素白影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.kkgithub.com/liu673cn/box/main/libs/jar/XYQH.jar","ext": "https://raw.kkgithub.com/liu673cn/box/main/libs/xyq/素白白.json"},
+{"key": "csp_XYQ电影牛","name": "🍖影牛影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.kkgithub.com/liu673cn/box/main/libs/jar/XYQH.jar","ext": "https://raw.kkgithub.com/liu673cn/box/main/libs/xyq/电影牛.json"},
 
 {"key":"csp_Xdys","name":"⭐小点影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
@@ -41,15 +41,15 @@
 
 {"key":"csp_Juqq","name":"⭕剧圈圈","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"影视工场","name":"🤵影视工场","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/影视工场.js"},
-{"key":"cc_热播之家","name": "🔥热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/c.jar","ext": "https://raw.liucn.cc/box/libs/c/热播之家.json"},
+{"key":"cc_热播之家","name": "🔥热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.kkgithub.com/liu673cn/box/main/libs/jar/c.jar","ext": "https://raw.kkgithub.com/liu673cn/box/main/libs/c/热播之家.json"},
 
-{"key": "云播影视","name": "☁️云播影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/TVB云播.js"},
+{"key": "云播影视","name": "☁️云播影视","type": 3,"playerType": "2","api": "https://raw.kkgithub.com/liu673cn/box/main/libs/js/drpy2.min.js","ext": "https://raw.kkgithub.com/liu673cn/box/main/libs/js/TVB云播.js"},
 {"key":"农民","name":"🥝农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key": "即刻","name": "💥1080即刻","type": 3,"jar": "https://raw.liucn.cc/box/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
+{"key": "即刻","name": "💥1080即刻","type": 3,"jar": "https://raw.kkgithub.com/liu673cn/box/main/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
 
-{"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/iqiyi.js"},
-{"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/youku.js"},
-{"key":"dr_qq","name":"🐧腾讯","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/qq.js"},
+{"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/drpy2.min.js","ext":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/iqiyi.js"},
+{"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/drpy2.min.js","ext":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/youku.js"},
+{"key":"dr_qq","name":"🐧腾讯","type":3,"api":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/drpy2.min.js","ext":"https://raw.kkgithub.com/liu673cn/box/main/libs/js/qq.js"},
 
 {"key":"晴天","name":"💢晴天影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
 {"key":"Freeok","name":"💢Freeok影院","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类":"电影&剧集&动漫&综艺&短剧&少儿","分类值":"1&2&3&4&12&5","副标题":"<div class=\"module-item-note\">&&</div>","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组":"data-dropdown-value=&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"}},
