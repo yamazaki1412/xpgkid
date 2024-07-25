@@ -16,6 +16,8 @@
 
 {"key":"csp_Kekys","name":"🍎主力5通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Jpys","name":"🍎主力6通道","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"csp_KubaCL","name":"🍎主力7通道4K","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FreeOK","name":"🍎主力7通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_NewCz","name":"🏭厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czys.pro/"},
