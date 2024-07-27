@@ -24,7 +24,7 @@
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Quanwk","name":"🥣全网看","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Quanwk","name":"🎞️全网看","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "js_555","name": "🎷三五影视","type": 3,"api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/555.js"},
 {"key":"csp_Pptv","name":"🐸皮皮影视","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.myd04.com"},
