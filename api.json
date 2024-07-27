@@ -30,6 +30,10 @@
 {"key":"csp_Pptv","name":"🐸皮皮影视","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.myd04.com"},
 {"key":"csp_csp_Appxdys","name":"💥兄弟影视","type":3,"api":"csp_csp_Appxdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
+{"key":"csp_Qiyou","name":"🦌奇优影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ikan","name":"💖爱看影视","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Jiaozi","name":"🥣饺子影视","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Xdys","name":"⭐小点影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_YCyz","name":"🦄原创影视","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -50,7 +54,7 @@
 {"key":"影视工场","name":"🤵影视工场","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/影视工场.js"},
 {"key":"cc_热播之家","name": "🔥热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/jar/c.jar","ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/c/热播之家.json"},
 
-{"key": "云播影视","name": "☁️云播影视","type": 3,"playerType": "2","api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/TVB云播.js"},
+{"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🥝农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/SC1080.js"},
 
