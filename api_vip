@@ -4,13 +4,12 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key":"*91麻豆","name":"🔞国产传媒","type":1,"api":"http://11338.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "桃花", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "优优", "name": "🔞优优", "type": 1, "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"阿里","name":"🔞阿里","type":1,"api":"https://bbckzy8.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"搞起","name":"🔞搞起","type":0,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-{"key":"好色","name":"🔞好色","type":0,"api":"https://haosezyw.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+{"key":"*91麻豆","name":"🔞MD传媒","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "apisesehuzy", "name": "🔞色虎", "type": 0, "api": "https://apisesehuzy.com/api.php/providedao/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "ddkbo", "name": "🔞大地", "type": 0, "api": "http://ddkbo.com/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "fhapi9", "name": "🔞番号全", "type": 0, "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
