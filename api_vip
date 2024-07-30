@@ -4,6 +4,13 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
+{"key": "MD传媒","name": "🔞MD传媒","type": 1,"api": "https://gcmd.cc/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "肉肉传媒", "name": "🔞肉肉传媒", "type": 1, "api": "https://rourou.co/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key": "桃花", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key": "优优", "name": "🔞优优", "type": 1, "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"阿里","name":"🔞阿里","type":1,"api":"https://bbckzy8.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"搞起","name":"🔞搞起","type":0,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+{"key":"好色","name":"🔞好色","type":0,"api":"https://haosezyw.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "apisesehuzy", "name": "🔞色虎", "type": 0, "api": "https://apisesehuzy.com/api.php/providedao/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "ddkbo", "name": "🔞大地", "type": 0, "api": "http://ddkbo.com/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -31,14 +38,13 @@
 {"key":"*色猫资源","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"*老鸭资源","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"🔞色南国","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"皇冠资源","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "155api", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"易看资源-伦理","name":"🔞易看伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*91麻豆","name":"🔞聚合传媒","type":1,"api":"http://19q.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
+{"key":"易看资源-伦理","name":"🔞易看伦理","type":1,"api":"https://api.yikanapi.comhttps://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*KK写真资源","name":"🔞KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"*91麻豆","name":"🔞聚合传媒","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "黄瓜","name": "🔞黄瓜","type": 1,"api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "apilj", "name": "🔞辣椒", "type": 0, "api": "http://api.11bat.com/api.php/Seacms/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key": "lyhapi", "name": "🔞狼友会", "type": 0, "api": "https://api.lyhapi.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 {"key":"csp_AList","name":"🔞云盘原片","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"drives": [
 {"name":"🔞福利盘","server":"http://69.161.221.160:5244/"}
