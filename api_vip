@@ -30,7 +30,6 @@
 {"key": "sybyapi", "name": "🔞鲨鱼", "type": 1, "api": "http://shayuzy5.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "kxgav", "name": "🔞白嫖", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "KpgxdyE", "name": "🔞黄AV", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key": "kuaiavzy", "name": "🔞快AV", "type": 0, "api": "https://kuaiavzy.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "lbapi9", "name": "🔞乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*探探资源","name":"🔞探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*色猫资源","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
@@ -39,6 +38,7 @@
 {"key": "155api", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 {"key":"易看资源-伦理","name":"🔞易看伦理","type":1,"api":"https://api.yikanapi.comhttps://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "yayazy.net", "name": "🔞丫丫伦理", "type": 1, "api": "https://cj.yayazy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*KK写真资源","name":"🔞KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"csp_AList","name":"🔞云盘原片","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":
