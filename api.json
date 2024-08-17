@@ -135,8 +135,6 @@
       "type": 3,
       "url": "Demo"
     },
-    
-
     {
       "name": "xmflv",
       "type": 0,
@@ -160,10 +158,13 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+       "header": {
+       "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
-        {
+    {
       "name": "nnxv",
       "type": 0,
       "url": "https://jx.nnxv.cn/tv.php?url=",
@@ -186,7 +187,10 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+       "header": {
+       "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
     {
@@ -214,11 +218,11 @@
           "哔哩"
         ],
         "header": {
-          "User-Agent": "okhttp/4.1.0"
+        "User-Agent": "okhttp/4.1.0"
         }
       }
     },
-        {
+    {
       "name": "m3u8",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
@@ -243,7 +247,7 @@
           "哔哩"
         ],
         "header": {
-          "User-Agent": "okhttp/4.1.0"
+        "User-Agent": "okhttp/4.1.0"
         }
       }
     },
@@ -270,7 +274,10 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+        "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
     {
@@ -298,11 +305,11 @@
           "哔哩"
         ],
         "header": {
-          "User-Agent": "okhttp/4.1.0"
+        "User-Agent": "okhttp/4.1.0"
         }
       }
     },
-        {
+    {
       "name": "8090g",
       "type": 0,
       "url": "https://www.8090g.cn/?url=",
@@ -325,10 +332,13 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+        "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
-        {
+    {
       "name": "jzmhtt",
       "type": 0,
       "url": "http://www.jzmhtt.com/zdy/vip/?url=",
@@ -351,10 +361,13 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+        "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
-     {
+    {
       "name": "yparse",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
@@ -377,7 +390,10 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+        "User-Agent": "okhttp/4.1.0"
+        }
       }
     }
   ],
