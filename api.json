@@ -136,61 +136,7 @@
       "url": "Demo"
     },
     
-{
-      "name": "xyflv",
-      "type": 0,
-      "url": "https://jx.xyflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "jsonplayer",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+
     {
       "name": "xmflv",
       "type": 0,
@@ -218,38 +164,9 @@
       }
     },
         {
-      "name": "nxflv",
+      "name": "nnxv",
       "type": 0,
-      "url": "https://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "ppflv",
-      "type": 0,
-      "url": "https://jx.ppflv.com/?url=",
+      "url": "https://jx.nnxv.cn/tv.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -273,9 +190,38 @@
       }
     },
     {
-      "name": "BL",
+      "name": "playm3u8",
       "type": 0,
-      "url": "https://svip.bljiex.cc/?v=",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+        {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -302,9 +248,35 @@
       }
     },
     {
-      "name": "777",
+      "name": "yemu",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "wpsseo",
+      "type": 0,
+      "url": "https://vip.wpsseo.cn/jx/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -330,7 +302,7 @@
         }
       }
     },
-    {
+        {
       "name": "8090g",
       "type": 0,
       "url": "https://www.8090g.cn/?url=",
@@ -356,33 +328,7 @@
         ]
       }
     },
-    {
-      "name": "aidouer",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
+        {
       "name": "jzmhtt",
       "type": 0,
       "url": "http://www.jzmhtt.com/zdy/vip/?url=",
@@ -408,36 +354,10 @@
         ]
       }
     },
-    {
-      "name": "2s0",
+     {
+      "name": "yparse",
       "type": 0,
-      "url": "https://jx.2s0.cn/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "m3u8.tv",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
         "flag": [
           "qq",
