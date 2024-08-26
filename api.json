@@ -32,7 +32,7 @@
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://cf.weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cf.weixine.net/js/changmeng.js"},
 
-{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
+{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 {"key":"csp_Dadag","name":"🐢达达龟影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 
