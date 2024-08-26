@@ -5,7 +5,7 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_Douban","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"🍎主力1通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
