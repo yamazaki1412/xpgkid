@@ -11,7 +11,7 @@
 
 {"key":"csp_NanGua","name":"🍎主力2通道","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kkys","name":"🍎主力3通道","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_TianTian","name":"🍎主力4通道","type":3,"api":"csp_TianTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🍎主力4通道","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"csp_Kekys","name":"🍎主力5通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Jpys","name":"🍎主力6通道","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -19,13 +19,13 @@
 
 {"key":"csp_NewCz","name":"🏭厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czys.pro/"},
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Zxzj","name":"🏚️在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.zxzja.com/"},
+{"key":"csp_Zxzj","name":"🏚️在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com/"},
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "js_555","name": "🎷三五影视","type": 3,"api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/555.js"},
 
-{"key":"csp_Auete","name":"🐼奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
 
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
