@@ -1,11 +1,11 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-        "spider": "https://ghproxy.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+        "spider": "https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key":"csp_Douban","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"🍎主力1通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
