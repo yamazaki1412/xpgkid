@@ -41,6 +41,9 @@
 {"key": "yayazy.net", "name": "🔞丫丫伦理", "type": 1, "api": "https://cj.yayazy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*KK写真资源","name":"🔞KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
+{"key": "hipy_js_采集之王[合]","name": "🇹采集大全","type": 3,"api": "https://gitee.com/tvkj/tw/raw/main/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+"filterable": 1,"order_num": 210,"ext": "https://gitee.com/tvkj/tw/raw/main/lib/采集之王.js?type=url&params=https://gitee.com/tvkj/tw/raw/main/lib/采集静态.json"},
+
 {"key":"csp_AList","name":"🔞云盘原片","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"drives": [
 {"name":"🔞福利盘","server":"http://69.161.221.160:5244/"}
