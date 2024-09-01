@@ -9,13 +9,9 @@
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_NanGua","name":"🍎主力1通道","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
-{"key":"csp_Kkys","name":"🍎主力2通道","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Kekys","name":"🍎主力3通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Jpys","name":"🍎主力4通道","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"csp_Auete","name":"🍎主力5通道","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-{"key":"csp_YCyz","name":"🍎主力6通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Ikan","name":"🍎主力7通道","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kekys","name":"🍎主力2通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Auete","name":"🍎主力3通道","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key":"csp_YCyz","name":"🍎主力4通道","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"csp_NewCz","name":"🏭厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czys.pro/"},
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -34,7 +30,7 @@
 {"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://cf.weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cf.weixine.net/js/changmeng.js"},
 
 {"key":"csp_Dadag","name":"🐢达达龟影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Jpys","name":"⚜️金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
