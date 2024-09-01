@@ -19,7 +19,7 @@
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com/"},
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "csp_XYQ电影牛","name": "🍖电影牛影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/jar/XYQH.jar","ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/xyq/电影牛.json"},
+{"key": "热播","name": "📺热播多线","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
 
 {"key":"csp_Qiyou","name":"🦌奇优影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
