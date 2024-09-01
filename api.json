@@ -35,7 +35,7 @@
 
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/SC1080.js"},
+{"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/iqiyi.js"},
 {"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/youku.js"},
