@@ -11,7 +11,7 @@
 
 {"key":"csp_NanGua","name":"🍎主力2通道","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kekys","name":"🍎主力3通道","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Auete","name":"🍎主力4通道","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key": "热播","name": "🍎主力4通道","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
 
 {"key": "348影视","name":"🍎主力5通道","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/348.json"},
 {"key":"csp_五五","name":"🍎主力6通道","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/55.json"},
@@ -23,7 +23,7 @@
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com/"},
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "热播","name": "📺热播多线","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"csp_Auete","name":"📺奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"csp_Qiyou","name":"🦌奇优影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
