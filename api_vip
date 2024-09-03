@@ -1,49 +1,57 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-        "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
+        "spider": "https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
 {"key": "桃花", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "优优", "name": "🔞优优", "type": 1, "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 {"key":"阿里","name":"🔞阿里","type":1,"api":"https://bbckzy8.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
-{"key":"搞起","name":"🔞搞起","type":0,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"*91麻豆","name":"🔞MD传媒","type":1,"api":"https://11338.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"haose","name":"🔞好色","type":1,"api":"https://haosezyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+
 {"key": "apisesehuzy", "name": "🔞色虎", "type": 0, "api": "https://apisesehuzy.com/api.php/providedao/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "ddkbo", "name": "🔞大地", "type": 0, "api": "http://ddkbo.com/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key": "fhapi9", "name": "🔞番号全", "type": 0, "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "slapibf","name": "🔞森林","type": 1,"api": "https://slapibf.com/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"jingpinx.com","name":"🔞精品","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"naixxzy.com","name":"🔞奶香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aosikazy.com","name":"🔞奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"jkunzyapi.com","name":"🔞爱坤","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "apiyutu","name": "🔞玉兔","type": 1,"api": "https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "siwazywtw","name": "🔞袜丝","type": 1,"api": "https://www.siwazyw.tv/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "apiddapi","name": "🔞滴滴","type": 1,"api": "https://didizy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "apixbapi","name": "🔞雪豹","type": 1,"api": "https://api.xbapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "timizy10","name": "🔞五月","type": 1,"api": "https://wuyuezy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "apilsbzy1","name": "🔞老色P","type": 1,"api": "https://apilsbzy1.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "ms4nii", "name": "🔞美少女", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "KxrbspE", "name": "🔞淫水机", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 {"key": "gdlsE", "name": "🔞香奶儿", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "sybyapi", "name": "🔞鲨鱼", "type": 1, "api": "http://shayuzy5.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "kxgav", "name": "🔞白嫖", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 {"key": "KpgxdyE", "name": "🔞黄AV", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "lbapi9", "name": "🔞乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*探探资源","name":"🔞探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key":"*色猫资源","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"*老鸭资源","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"GAY","name":"🔞GAY","type":1,"api":"https://gayapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+
 {"key":"色南国资源","name":"🔞色南国","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "155api", "name": "🔞115", "type": 0, "api": "https://155api.com/api.php/Seacms/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
 {"key":"易看资源-伦理","name":"🔞易看伦理","type":1,"api":"https://api.yikanapi.comhttps://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key": "yayazy.net", "name": "🔞丫丫伦理", "type": 1, "api": "https://cj.yayazy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*KK写真资源","name":"🔞KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 {"key": "hipy_js_采集之王[合]","name": "🇹采集大全","type": 3,"api": "https://gitee.com/tvkj/tw/raw/main/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "https://gitee.com/tvkj/tw/raw/main/lib/采集之王.js?type=url&params=https://gitee.com/tvkj/tw/raw/main/lib/采集静态.json"},
-
 {"key":"csp_AList","name":"🔞云盘原片","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"drives": [
 {"name":"🔞福利盘","server":"http://69.161.221.160:5244/"}
