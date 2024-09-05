@@ -4,7 +4,7 @@
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         "sites":[
-{"key": "桃花", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key": "桃花", "name": "🔞桃花", "type": 1, "api": "https://thzy2.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "优优", "name": "🔞优优", "type": 1, "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
