@@ -151,9 +151,10 @@
       }
     },
     {
-      "name": "nnxv",
+      "name": "麒麟",
       "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "url":
+"https://jx.quankan.app/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -208,68 +209,10 @@
         }
       }
     },
-    {
-      "name": "m3u8",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-        "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
+        {
       "name": "yemu",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-        "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "wpsseo",
-      "type": 0,
-      "url": "https://vip.wpsseo.cn/jx/?url=",
       "ext": {
         "flag": [
           "qq",
