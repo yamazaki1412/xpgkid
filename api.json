@@ -3,8 +3,8 @@
 {
         "spider": "https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
         "sites":[
+                
 {"key":"csp_DouDou","name":"🍎kid朋友们龙行龘龘","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,7 +22,7 @@
 {"key":"csp_Zxzj","name":"🏚️在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
 {"key":"csp_Ikanbot","name":"⚙️爱看机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com/"},
-{"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SuBaiBai","name":"⛅️素白白影视","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"📺奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"csp_Qiyou","name":"🦌奇优影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
@@ -33,74 +33,21 @@
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://cf.weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cf.weixine.net/js/changmeng.js"},
 
+{"key": "Hhys","name": "🦊黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
+{"key": "sxys","name": "📙师兄影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"},
+{"key": "xsys","name": "🍻先生影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=dyss"},
+
+{"key": "mays","name": "🍚米爱影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mays"},
+{"key": "xcys","name": "⭐星辰影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=xcys"},
+{"key": "zzys","name": "🧸子子影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=zzys"},
+
 {"key":"csp_Dadag","name":"🐢达达龟影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jpys","name":"⚜️金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
+{"key":"csp_Lib","name":"🔷LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 
-{"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"HDmoli","name":"😈魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
+{"key":"csp_Tvyb","name":"☁️TVB影视","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"HDmoli","name":"😈魔力影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
 {"key":"圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.liucn.cc/box/libs/js/SC1080.js"},
-
-{
-      "key": "Hhys",
-      "name": "🦊黑狐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
-    },
-    {
-      "key": "sxys",
-      "name": "📙师兄影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
-    },
-    {
-      "key": "xsys",
-      "name": "🍻先生影视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=dyss"
-    },
-    {
-      "key": "mays",
-      "name": "🍚米爱影视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
-    },
-    {
-      "key": "xcys",
-      "name": "⭐星辰影视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
-    },
-    {
-      "key": "zzys",
-      "name": "🧸子子影视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=zzys"
-    },
 
 {"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/iqiyi.js"},
 {"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/youku.js"},
