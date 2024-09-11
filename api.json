@@ -41,6 +41,67 @@
 {"key":"HDmoli","name":"😈魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
 {"key":"圣城影视","name": "🏰圣城影视","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.liucn.cc/box/libs/js/SC1080.js"},
 
+{
+      "key": "Hhys",
+      "name": "🦊黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
+    },
+    {
+      "key": "sxys",
+      "name": "📙师兄影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
+    },
+    {
+      "key": "xsys",
+      "name": "🍻先生影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=dyss"
+    },
+    {
+      "key": "mays",
+      "name": "🍚米爱影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
+    },
+    {
+      "key": "xcys",
+      "name": "⭐星辰影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
+    },
+    {
+      "key": "zzys",
+      "name": "🧸子子影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=zzys"
+    },
+
 {"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/iqiyi.js"},
 {"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/youku.js"},
 {"key":"dr_qq","name":"🐧腾讯","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/qq.js"},
