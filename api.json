@@ -31,7 +31,8 @@
 {"key":"csp_YCyz","name":"🦉原创影视","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},
+{"key": "jpys","name": "🔮荐片影视","type": 3,"api":"http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"http://www.meowtv.cn/js/meow.php?file=jpys"},
+{"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/js/meow.php?file=jpys"},
 {"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://cf.weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cf.weixine.net/js/changmeng.js"},
 
 {"key": "Hhys","name": "🦊黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
