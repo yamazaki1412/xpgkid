@@ -43,16 +43,7 @@
 {"key": "zzys","name": "🧸子子影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=zzys"},
 
 {"key":"csp_Dadag","name":"🐢达达龟影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
-{
-      "key": "新感觉",
-      "name": "🃏新感觉影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9891/api.php/app/"
-    },
+{"key": "新感觉","name": "🃏新感觉影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key":"csp_Lib","name":"🔷LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 
 {"key":"csp_Tvyb","name":"☁️TVB影视","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
