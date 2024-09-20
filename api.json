@@ -9,7 +9,7 @@
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_NanGua","name":"🍎主力2通道","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Qiyou","name":"🍎主力2通道","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "七新","name": "🍎主力3通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
 {"key": "热播","name": "🍎主力4通道","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 
@@ -25,7 +25,7 @@
 {"key":"csp_SuBaiBai","name":"⛅️素白白影视","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"📺奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
-{"key":"csp_Qiyou","name":"🦌奇优影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_NanGua","name":"🍈南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
 {"key":"csp_YCyz","name":"🦉原创影视","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
