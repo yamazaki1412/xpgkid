@@ -10,7 +10,7 @@
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_NanGua","name":"🍎主力2通道","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "Qxys","name": "🍎主力3通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
+{"key": "七新","name": "🍎主力3通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
 {"key": "热播","name": "🍎主力4通道","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 
 {"key":"csp_Dadag","name":"🍎主力5通道","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
