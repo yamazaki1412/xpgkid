@@ -66,14 +66,48 @@
       }
     },
     {
-      "key": "xcys",
-      "name": "🎐星辰影视",
+      "key": "✨YY影视✨",
+      "name": "🎐UU影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "ext": {
-        "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "✨module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "✨+>&&</",
+        "简介": "✨提醒：请勿相信视频里的广告！✨+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      }
+    },
+    {
+      "key": "金牌影视",
+      "name": "🎐金牌影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "简介": "剧情介绍:+简介:</div>&&</div></div>",
+        "数组": "content-card\">&&</div></div></a></div></div>",
+        "标题": "<div class=\"title\">&&</div>",
+        "副标题": "tag\">&&</div>",
+        "线路标题": "在线播放",
+        "播放数组": "main-list-sections&&</div></div>",
+        "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
     {
