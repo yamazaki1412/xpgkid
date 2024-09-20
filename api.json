@@ -95,7 +95,7 @@
 
 {"key":"JRKAN直播","name":"🏀JRKAN直播","type":3,"api":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
-{"key": "直播转点播","name": "📺︎电视点播","playerType": 1,"type": 3,"api": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/tv/zb.json"},
+{"key": "T4_企鹅体育","name": "🏆企鹅体育","type": 4,"api": "https://catbox.n13.club/t4/qietiyu.php"},
 
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/master/sub/Bili.json"},
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"},
