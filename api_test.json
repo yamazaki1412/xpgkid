@@ -5,8 +5,7 @@
 
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
-"sites":[
-{"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
+"sites":
 {"key":"csp_DouDou","name":"🍎kid朋友们中秋快乐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_YGP","name":"🍎预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
