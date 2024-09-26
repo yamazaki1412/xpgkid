@@ -130,6 +130,12 @@
 ],
 
         "parses": [
+
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
     {
       "name": "xmflv",
       "type": 0,
