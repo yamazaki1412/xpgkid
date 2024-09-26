@@ -7,7 +7,7 @@
 
 "sites":
 {"key":"csp_DouDou","name":"🍎kid朋友们中秋快乐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_YGP","name":"🍎预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_YGP","name":"🍎kid预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
