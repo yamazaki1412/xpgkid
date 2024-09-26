@@ -13,8 +13,7 @@
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Qiyou","name":"🍎主力2通道","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"🍎主力3通道","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key": "热播","name": "🍎主力4通道","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
+{"key": "55ys","name": "🍎主力4通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
 {"key":"瓜子","name":"🍎主力5通道","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tvyb","name":"🍎主力6通道","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -47,8 +46,8 @@
 {"key": "zzys","name": "🧸子子影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=zzys"},
 
 {"key": "新感觉","name": "🃏新感觉影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.248.100.147:9891/api.php/app/"},
-{"key": "55ys","name": "♠️55影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
 {"key": "348影视","name":"🍁348影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/348.json"},
+{"key": "热播","name": "🎐热播影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar":"http://m1839732.cf.caoni.ru/6/meow.php"},
 
 {"key":"HDmoli","name":"😈魔力影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
 {"key": "七新","name": "⛪七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
@@ -93,7 +92,8 @@
 
 {"key":"csp_Anime1","name":"🌸艾妮动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"📮异世界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "qmdm","name": "📮奇米动漫","type": 3,"api":"http://www.meowtv.cn/js/drpy2.min.js","searchable":1,"quickSearch": 1,"filterable": 1,
+"ext":"http://www.meowtv.cn/js/meow.php?file=qmdm"},
 
 {"key":"csp_Djtt","name":"🎥短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"},
