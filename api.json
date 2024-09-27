@@ -38,6 +38,7 @@
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/js/meow.php?file=jpys"},
 {"key":"看客","name":"👲看客影视","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.net/js/changmeng.js"},
 {"key":"csp_Dyxs","name":"🍻先生影视","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "sxys","name": "📙师兄影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"},
 
