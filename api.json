@@ -72,7 +72,6 @@
 
 {"key":"csp_SixV","name":"🧲新6V影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_xpath_yinfans","name": "🧲音范丝4K","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
-
 {"key":"csp_SP360","name":"🧲360观影","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"360CJ","name":"📡360CJ","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"categories": ["爱情片",  "喜剧片",  "科幻片",  "恐怖片",  "剧情片",  "战争片", "惊悚片", "历史片", "悬疑片", "犯罪片", "灾难片",  "古装片", "记录片", "动画片", "国产剧",  "韩国剧",  "香港剧", "台湾剧",  "日本剧",  "欧美剧",   "NBA",  "大陆综艺",  "港台综艺",  "日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","爽文短剧","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭" ]},
