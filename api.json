@@ -13,15 +13,16 @@
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Qiyou","name":"🍎主力2通道","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"🍎主力3通道","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"55ys","name": "🍎主力4通道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
-{"key":"瓜子","name":"🍎主力5通道","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tvyb","name":"🍎主力6通道","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tvyb","name":"🍎主力5通道","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"FreeOK","name":"️🍎主力6通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"FreeOK","name":"️🍎主力7通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"看客","name":"🍎主力8通道","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_FengGo","name":"🍎主力9通道","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"畅梦","name":"🍎主力7通道","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.net/js/changmeng.js"},
+{"key": "七新","name": "🍎主力8通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
+{"key": "mmys","name": "🍎主力9通道","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 
-{"key":"drjs_爱看机器人","name":"🤖爱看机器人","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/ikanbot.js"},
+{"key":"drjs_爱看机器人","name":"🤖爱看BOT","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/ikanbot.js"},
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Zxzj","name":"🏚️在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 
@@ -35,7 +36,7 @@
 
 {"key":"csp_DiDuan","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Jianpian","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/js/meow.php?file=jpys"},
-{"key":"畅梦","name":"🍇畅梦影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.net/js/changmeng.js"},
+{"key":"看客","name":"👲看客影视","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Dyxs","name":"🍻先生影视","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Hhys","name": "🦊黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
@@ -47,15 +48,15 @@
 
 {"key": "新感觉","name": "🃏新感觉影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "348影视","name":"🍁348影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/348.json"},
-{"key": "mmys","name": "🎐萌米影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
+{"key":"csp_FengGo","name":"🐶狗狗影视","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"HDmoli","name":"😈魔力影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
-{"key": "七新","name": "⛪七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
+{"key":"瓜子","name":"🍉瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "白嫖者","name":"🔷白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
 
 {"key": "csp_XBPQUU","name": "🏺UU影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar","ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url": "https://uuys.cc","二次截取": "module-page&&<div id=\"page\">","数组": "<a&&</div></div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "module-item-note&&</div>","线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]","线路标题": "<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": ">&&</","简介": "提醒：请勿相信视频里的广告！<p>&&</p >","搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html","分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
 {"key": "csp_XBPQ金牌","name": "💮金牌影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar","ext": {"请求头":"User-Agent$MOBILE_UA","编码": "UTF-8","简介": "剧情介绍:+简介:</div>&&</div></div>","数组": "content-card\">&&</div></div></a></div></div>","标题": "<div class=\"title\">&&</div>","副标题": "tag\">&&</div>","线路标题": "在线播放","播放数组": "main-list-sections&&</div></div>","分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key": "csp_XBPQ可可","name": "♟️可可影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
+{"key": "csp_XBPQ可可","name": "🍶可可影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 
 {"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/iqiyi.js"},
 {"key":"dr_youku","name":"🥔优酷","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/youku.js"},
@@ -105,7 +106,7 @@
 
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/master/sub/Bili.json"},
 {"key":"相声小品","name":"👥相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"},
-{"key":"csp_Kugou","name":"🐶酷狗音乐","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+{"key":"csp_Kugou","name":"🎵酷狗音乐","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 
 
 {"key":"酷奇MV","name":"🎶酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
