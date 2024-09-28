@@ -6,8 +6,8 @@
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
-{"key":"csp_DouDou","name":"🍎kid朋友们国庆快乐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_YGP","name":"🍎kid预告片赏析","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"🍎KID朋友们国庆快乐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_YGP","name":"🍎KID预告片赏析","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎主力源通道","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
