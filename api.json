@@ -19,7 +19,7 @@
 {"key":"FreeOK","name":"️🍎主力6通道","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "七新","name": "🍎主力7通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
-{"key": "新感觉","name": "🍎主力8通道","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.248.100.147:9891/api.php/app/"},
+{"key": "君君","name": "🍎主力8通道","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "mmys","name": "🍎主力9通道","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 
 {"key":"drjs_爱看机器人","name":"🤖爱看BOT","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/ikanbot.js"},
