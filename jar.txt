@@ -2,6 +2,6 @@
 
 "spider": "https://ghproxy.cc/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/Yoursmile.jar",
 
-"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar,
+"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
 
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/Yoursmile.jar",
