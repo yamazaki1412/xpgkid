@@ -12,7 +12,7 @@
 
 {"key":"csp_TianTian","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Qiyou","name":"🍎主力2通道","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SC1080","name":"🍎主力3通道","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"圣城SC1080","name": "🍎主力3通道","type": 3,"playerType": "2","api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.liucn.cc/box/libs/js/SC1080.js"},
 
 {"key":"55ys","name": "🍎主力4通道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
 {"key": "黑狐","name": "🍎主力5通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
