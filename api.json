@@ -32,7 +32,7 @@
 
 {"key":"饺子","name":"🥣饺子影视","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"青苹果","name": "🍏青果影视","type": 3,"api": "csp_XBPQ","playerType": "1","searchable":1,"quickSearch":1,"ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
-{"key":"南瓜","name":"🎃南瓜影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
+{"key":"csp_SC1080","name":"⛪圣城影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"4k剧院","name":"🍇4k影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
@@ -55,7 +55,7 @@
 {"key": "可可","name": "🍶可可影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 
 {"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SC1080","name":"⛪圣城影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"南瓜","name":"🎃南瓜影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 {"key":"原创","name":"🦉原创影视","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"dr_iqiyi","name":"🥑爱奇艺","type":3,"api":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liu673cn/box@master/libs/js/iqiyi.js"},
