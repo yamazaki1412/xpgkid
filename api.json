@@ -130,29 +130,8 @@
 ],
 
 
-"parses": [{
-                "name": "Web聚合",
-                "type": 3,
-                "url": "Web"
-        }, {
-                "name": "Json聚合",
-                "type": 3,
-                "url": "Demo"
-        }, {
-                "name": "云",
-                "type": 0,
-                "url": "https://yparse.ik9.cc/index.php?url=",
-                "ext": {
-                        "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-                }   
-        }, {
-                "name": "云2",
-                "type": 0,
-                "url": "https://jx.yparse.com/index.php?url=",
-                "ext": {
-                        "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-                }   
-        }, 
+"parses": [
+      
     {
       "name": "xmflv",
       "type": 0,
@@ -297,6 +276,11 @@
         "User-Agent": "okhttp/4.1.0"
         }
       }
+    },
+    {
+                "name": "Web聚合",
+                "type": 3,
+                "url": "Web"
     }
    ],
 
