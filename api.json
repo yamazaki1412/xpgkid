@@ -35,14 +35,14 @@
 {"key":"csp_SC1080","name":"⛪圣城影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"4k剧院","name":"🍇4k影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
+{"key":"4k剧院","name":"🍇4k影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 {"key":"大师兄","name":"🍻先生影视","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "米爱","name": "🍚米爱影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mays"},
 {"key": "星辰","name": "⭐星辰影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=xcys"},
 {"key": "子子","name": "🧸子子影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=zzys"},
 
-{"key":"333影视","name":"👓333影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/333影视.js"},
+{"key":"333影视","name":"👓333影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/333影视.js"},
 {"key": "348影视","name":"🍁348影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/348.json"},
 {"key":"疯狗","name":"🐶狗狗影视","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
 
