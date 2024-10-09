@@ -35,7 +35,7 @@
 {"key":"csp_SC1080","name":"⛪圣城影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"4k剧院","name":"🍇4k影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/4kav.js"},
+{"key":"4k剧院","name":"🍇4k影视","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 {"key":"大师兄","name":"🍻先生影视","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "米爱","name": "🍚米爱影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mays"},
