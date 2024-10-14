@@ -12,16 +12,15 @@
 
 {"key":"天天","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "先生","name": "🍎主力2通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"},
-{"key":"畅梦","name":"🍎主力3通道","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.net/js/changmeng.js"},
-        
-{"key":"55ys","name": "🍎主力4通道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
-{"key":"黑狐","name": "🍎主力5通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
-{"key":"csp_Tvyb","name":"🍎主力6通道","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tvyb","name":"🍎主力3通道","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"农民","name":"🍎主力7通道","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"七新","name": "🍎主力8通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
-{"key":"君君","name": "🍎主力9通道","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.85.203:1000/api.php/app/"},
+{"key":"农民","name":"🍎主力4通道","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"七新","name": "🍎主力5通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
+{"key":"君君","name": "🍎主力6通道","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.85.203:1000/api.php/app/"},
 
+{"key":"畅梦","name":"🍎主力7通道","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.net/js/changmeng.js"},
+{"key":"55ys","name": "🍎主力8通道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=wwys"},
+{"key":"黑狐","name": "🍎主力9通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
 {"key":"drjs_爱看机器人","name":"🤖爱看BOT","type":3,"api":"http://weixine.net/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/ikanbot.js"},
 {"key":"csp_Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"荐片","name":"🔮荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/js/meow.php?file=jpys"},
