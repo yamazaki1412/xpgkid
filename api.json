@@ -38,18 +38,9 @@
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"4k剧院","name":"🍇4k影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 
-{
-      "key": "czys",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://czzy.top/",
-      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
+{"key": "czys","name": "📔厂长影视","type": 3,"api": "csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://czzy.top/","jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"},
+{"key": "xxys","name": "🎰新新影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
+{"key": "ynys","name": "🚀鸭奈影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ynys","jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
 
 {"key": "米爱","name": "🍚米爱影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mays"},
 {"key": "星辰","name": "⭐星辰影视","type": 3,"api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=xcys"},
