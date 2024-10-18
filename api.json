@@ -90,8 +90,7 @@
 
 {"key":"csp_Anime1","name":"🌸艾妮动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "qmdm","name": "📮奇米动漫","type": 3,"api":"http://www.meowtv.cn/js/drpy2.min.js","searchable":1,"quickSearch": 1,"filterable": 1,
-"ext":"http://www.meowtv.cn/js/meow.php?file=qmdm"},
+{"key": "qmdm","name": "📮奇米动漫","type": 3,"api":"http://www.meowtv.cn/js/drpy2.min.js","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/js/meow.php?file=qmdm"},
 
 {"key":"csp_Djtt","name":"🎥短剧大全","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"},
