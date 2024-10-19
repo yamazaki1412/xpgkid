@@ -38,7 +38,8 @@
 {"key":"4k剧院","name":"🍇4k影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 
 {"key": "czys","name": "📔厂长影视","type": 3,"api": "csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://czzy.top/","jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"},
-{"key":"csp_NewCz","name":"📔厂长影视(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/"},"jar":"
+
+{"key":"csp_NewCz","name":"📔厂长影视(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/","jar":"
 https://ghproxy.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1018.jar"},
 
 {"key": "ygys","name": "🚀一个影视","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yigeg.pro","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
