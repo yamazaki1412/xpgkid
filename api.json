@@ -37,8 +37,7 @@
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"4k剧院","name":"🍇4k影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 
-{"key":"csp_NewCz","name":"📔厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/","jar":"
-https://ghproxy.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1018.jar"},
+{"key":"csp_NewCz","name":"📔厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/","jar":"https://ghproxy.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1018.jar"},
 {"key": "ygys","name": "🚀一个影视","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yigeg.pro","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key": "ynys","name": "🎰鸭奈影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ynys","jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
 
