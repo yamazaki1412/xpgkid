@@ -13,6 +13,7 @@
 {"key":"天天","name":"🍎主力1通道","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"🍎主力2通道","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 {"key":"csp_Tvyb","name":"🍎主力3通道","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch": 1,"filterable":1,"ext":"http://www.tvyun01.com/"},
+
 {"key":"农民","name":"🍎主力4通道","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"七新","name": "🍎主力5通道","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
 {"key":"君君","name": "🍎主力6通道","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.85.203:1000/api.php/app/"},
@@ -37,7 +38,7 @@
 {"key":"低端","name":"👒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"4k剧院","name":"🍇4k影视","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4k剧院.js"},
 
-{"key":"csp_NewCz","name":"📔厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/","jar":"https://ghproxy.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1018.jar"},
+{"key":"N3RD_csp_NewCz","name":"📔厂长影视","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzy77.com/","jar":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/lem.jar"},
 {"key": "ygys","name": "🚀一个影视","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yigeg.pro","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key": "ynys","name": "🎰鸭奈影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ynys","jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
 
@@ -52,9 +53,9 @@
 {"key":"魔力i","name":"😈魔力影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.cc/https://raw.githubusercontent.com/yamazaki1412/xpgkid/main/lib/HDmoli.json"},
 {"key":"瓜子","name":"🍉瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "nfys","name": "🎭奈飞影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.meowtv.cn/xp/meow.php?file=nfys","jar":"http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
+
 {"key": "白嫖者","name":"🔷白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
 {"key": "UU","name": "🏺UU影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url": "https://uuys.cc","二次截取": "module-page&&<div id=\"page\">","数组": "<a&&</div></div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "module-item-note&&</div>","线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]","线路标题": "<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": ">&&</","简介": "提醒：请勿相信视频里的广告！<p>&&</p >","搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html","分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
-
 {"key": "可可","name": "🍶可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 
 {"key":"csp_hanjulao","name":"🍖韩剧影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.cc/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/hanjulao.json","jar":"https://ghproxy.cc/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar"},
